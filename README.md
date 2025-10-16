@@ -1,6 +1,6 @@
 Hi there 👋
 
-👩🏼‍💻 I'm currently a senior's senior student at KTU Computer Engineering.
+👩🏼‍💻 I'm currently a senior's student at KTU Computer Engineering.
 
 💻 I’m working on Quantum Computing.
 

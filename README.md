@@ -35,17 +35,12 @@ A hybrid quantum-classical classification study using a quantum kernel and Parti
 
 **Technologies:** Python · Qiskit · scikit-learn · NumPy · pandas
 
-### Quantum CNN for Skin Lesion Segmentation
+### [Quantum CNN for Skin Lesion Segmentation](https://github.com/irembuseozkose/skin-cancer-qcnn-segmentation)
 
 A research project investigating a quantum channel-attention module integrated into a Segment Anything Model (SAM) image-segmentation pipeline. The quantum component uses an 8-qubit circuit architecture.
 
 **Technologies:** Python · PyTorch · PennyLane · Quantum Machine Learning
 
-### Quantum Natural Language Processing
-
-Exploration of grammar-aware and compositional approaches to NLP, including DisCoCat-inspired models and experiments with lambeq.
-
-**Technologies:** Python · lambeq · Quantum NLP
 
 ## Technical Skills
 
